@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="ID:ISBN:9781633436343" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>AI Agents in Action</text></docTitle>
+<docAuthor><text>Micheal Lanham</text></docAuthor>
+<navMap><navPoint id="urn:orm:book:9781633436343:chapter:Text%2ftitle.html" playOrder="1"><navLabel><text>AI Agents in Action</text></navLabel><content src="title.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fcopyright.html" playOrder="2"><navLabel><text>copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fdedication.html" playOrder="3"><navLabel><text>dedication</text></navLabel><content src="dedication.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fcontents.html" playOrder="4"><navLabel><text>contents</text></navLabel><content src="contents.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fpreface.html" playOrder="5"><navLabel><text>preface</text></navLabel><content src="preface.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2facknowledgments.html" playOrder="6"><navLabel><text>acknowledgments</text></navLabel><content src="acknowledgments.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fabout-this-book.html" playOrder="7"><navLabel><text>about this book</text></navLabel><content src="about-this-book.xhtml"/><navPoint id="sigil_toc_id_1" playOrder="8"><navLabel><text>Who should read this book</text></navLabel><content src="about-this-book.xhtml#sigil_toc_id_1"/></navPoint>
+<navPoint id="sigil_toc_id_2" playOrder="9"><navLabel><text>How this book is organized: A road map</text></navLabel><content src="about-this-book.xhtml#sigil_toc_id_2"/></navPoint>
+<navPoint id="sigil_toc_id_3" playOrder="10"><navLabel><text>About the code</text></navLabel><content src="about-this-book.xhtml#sigil_toc_id_3"/></navPoint>
+<navPoint id="sigil_toc_id_4" playOrder="11"><navLabel><text>liveBook discussion forum</text></navLabel><content src="about-this-book.xhtml#sigil_toc_id_4"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fabout-the-author.html" playOrder="12"><navLabel><text>about the author</text></navLabel><content src="about-the-author.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fabout-the-cover-illustration.html" playOrder="13"><navLabel><text>about the cover illustration</text></navLabel><content src="about-the-cover-illustration.xhtml"/></navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-1.html" playOrder="14"><navLabel><text>1 Introduction to agents and their world</text></navLabel><content src="chapter-1.xhtml"/><navPoint id="sigil_toc_id_5" playOrder="15"><navLabel><text>1.1 Defining agents</text></navLabel><content src="chapter-1.xhtml#sigil_toc_id_5"/></navPoint>
+<navPoint id="sigil_toc_id_6" playOrder="16"><navLabel><text>1.2 Understanding the component systems of an agent</text></navLabel><content src="chapter-1.xhtml#sigil_toc_id_6"/></navPoint>
+<navPoint id="sigil_toc_id_7" playOrder="17"><navLabel><text>1.3 Examining the rise of the agent era: Why agents?</text></navLabel><content src="chapter-1.xhtml#sigil_toc_id_7"/></navPoint>
+<navPoint id="sigil_toc_id_8" playOrder="18"><navLabel><text>1.4 Peeling back the AI interface</text></navLabel><content src="chapter-1.xhtml#sigil_toc_id_8"/></navPoint>
+<navPoint id="sigil_toc_id_9" playOrder="19"><navLabel><text>1.5 Navigating the agent landscape</text></navLabel><content src="chapter-1.xhtml#sigil_toc_id_9"/></navPoint>
+<navPoint id="sigil_toc_id_10" playOrder="20"><navLabel><text>Summary</text></navLabel><content src="chapter-1.xhtml#sigil_toc_id_10"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-2.html" playOrder="21"><navLabel><text>2 Harnessing the power of large language models</text></navLabel><content src="chapter-2.xhtml"/><navPoint id="sigil_toc_id_11" playOrder="22"><navLabel><text>2.1 Mastering the OpenAI API</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_11"/><navPoint id="sigil_toc_id_12" playOrder="23"><navLabel><text>2.1.1 Connecting to the chat completions model</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_12"/></navPoint>
+<navPoint id="sigil_toc_id_13" playOrder="24"><navLabel><text>2.1.2 Understanding the request and response</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_13"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_14" playOrder="25"><navLabel><text>2.2 Exploring open source LLMs with LM Studio</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_14"/><navPoint id="sigil_toc_id_15" playOrder="26"><navLabel><text>2.2.1 Installing and running LM Studio</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_15"/></navPoint>
+<navPoint id="sigil_toc_id_16" playOrder="27"><navLabel><text>2.2.2 Serving an LLM locally with LM Studio</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_16"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_17" playOrder="28"><navLabel><text>2.3 Prompting LLMs with prompt engineering</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_17"/><navPoint id="sigil_toc_id_18" playOrder="29"><navLabel><text>2.3.1 Creating detailed queries</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_18"/></navPoint>
+<navPoint id="sigil_toc_id_19" playOrder="30"><navLabel><text>2.3.2 Adopting personas</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_19"/></navPoint>
+<navPoint id="sigil_toc_id_20" playOrder="31"><navLabel><text>2.3.3 Using delimiters</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_20"/></navPoint>
+<navPoint id="sigil_toc_id_21" playOrder="32"><navLabel><text>2.3.4 Specifying steps</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_21"/></navPoint>
+<navPoint id="sigil_toc_id_22" playOrder="33"><navLabel><text>2.3.5 Providing examples</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_22"/></navPoint>
+<navPoint id="sigil_toc_id_23" playOrder="34"><navLabel><text>2.3.6 Specifying output length</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_23"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_24" playOrder="35"><navLabel><text>2.4 Choosing the optimal LLM for your specific needs</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_24"/></navPoint>
+<navPoint id="sigil_toc_id_25" playOrder="36"><navLabel><text>2.5 Exercises</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_25"/></navPoint>
+<navPoint id="sigil_toc_id_26" playOrder="37"><navLabel><text>Summary</text></navLabel><content src="chapter-2.xhtml#sigil_toc_id_26"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-3.html" playOrder="38"><navLabel><text>3 Engaging GPT assistants</text></navLabel><content src="chapter-3.xhtml"/><navPoint id="sigil_toc_id_27" playOrder="39"><navLabel><text>3.1 Exploring GPT assistants through ChatGPT</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_27"/></navPoint>
+<navPoint id="sigil_toc_id_28" playOrder="40"><navLabel><text>3.2 Building a GPT that can do data science</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_28"/></navPoint>
+<navPoint id="sigil_toc_id_29" playOrder="41"><navLabel><text>3.3 Customizing a GPT and adding custom actions</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_29"/><navPoint id="sigil_toc_id_30" playOrder="42"><navLabel><text>3.3.1 Creating an assistant to build an assistant</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_30"/></navPoint>
+<navPoint id="sigil_toc_id_31" playOrder="43"><navLabel><text>3.3.2 Connecting the custom action to an assistant</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_31"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_32" playOrder="44"><navLabel><text>3.4 Extending an assistant’s knowledge using file uploads</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_32"/><navPoint id="sigil_toc_id_33" playOrder="45"><navLabel><text>3.4.1 Building the Calculus Made Easy GPT</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_33"/></navPoint>
+<navPoint id="sigil_toc_id_34" playOrder="46"><navLabel><text>3.4.2 Knowledge search and more with file uploads</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_34"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_35" playOrder="47"><navLabel><text>3.5 Publishing your GPT</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_35"/><navPoint id="sigil_toc_id_36" playOrder="48"><navLabel><text>3.5.1 Expensive GPT assistants</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_36"/></navPoint>
+<navPoint id="sigil_toc_id_37" playOrder="49"><navLabel><text>3.5.2 Understanding the economics of GPTs</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_37"/></navPoint>
+<navPoint id="sigil_toc_id_38" playOrder="50"><navLabel><text>3.5.3 Releasing the GPT</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_38"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_39" playOrder="51"><navLabel><text>3.6 Exercises</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_39"/></navPoint>
+<navPoint id="sigil_toc_id_40" playOrder="52"><navLabel><text>Summary</text></navLabel><content src="chapter-3.xhtml#sigil_toc_id_40"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-4.html" playOrder="53"><navLabel><text>4 Exploring multi-agent systems</text></navLabel><content src="chapter-4.xhtml"/><navPoint id="sigil_toc_id_41" playOrder="54"><navLabel><text>4.1 Introducing multi-agent systems with AutoGen Studio</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_41"/><navPoint id="sigil_toc_id_42" playOrder="55"><navLabel><text>4.1.1 Installing and using AutoGen Studio</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_42"/></navPoint>
+<navPoint id="sigil_toc_id_43" playOrder="56"><navLabel><text>4.1.2 Adding skills in AutoGen Studio</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_43"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_44" playOrder="57"><navLabel><text>4.2 Exploring AutoGen</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_44"/><navPoint id="sigil_toc_id_45" playOrder="58"><navLabel><text>4.2.1 Installing and consuming AutoGen</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_45"/></navPoint>
+<navPoint id="sigil_toc_id_46" playOrder="59"><navLabel><text>4.2.2 Enhancing code output with agent critics</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_46"/></navPoint>
+<navPoint id="sigil_toc_id_47" playOrder="60"><navLabel><text>4.2.3 Understanding the AutoGen cache</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_47"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_48" playOrder="61"><navLabel><text>4.3 Group chat with agents and AutoGen</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_48"/></navPoint>
+<navPoint id="sigil_toc_id_49" playOrder="62"><navLabel><text>4.4 Building an agent crew with CrewAI</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_49"/><navPoint id="sigil_toc_id_50" playOrder="63"><navLabel><text>4.4.1 Creating a jokester crew of CrewAI agents</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_50"/></navPoint>
+<navPoint id="sigil_toc_id_51" playOrder="64"><navLabel><text>4.4.2 Observing agents working with AgentOps</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_51"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_52" playOrder="65"><navLabel><text>4.5 Revisiting coding agents with CrewAI</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_52"/></navPoint>
+<navPoint id="sigil_toc_id_53" playOrder="66"><navLabel><text>4.6 Exercises</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_53"/></navPoint>
+<navPoint id="sigil_toc_id_54" playOrder="67"><navLabel><text>Summary</text></navLabel><content src="chapter-4.xhtml#sigil_toc_id_54"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-5.html" playOrder="68"><navLabel><text>5 Empowering agents with actions</text></navLabel><content src="chapter-5.xhtml"/><navPoint id="sigil_toc_id_55" playOrder="69"><navLabel><text>5.1 Defining agent actions</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_55"/></navPoint>
+<navPoint id="sigil_toc_id_56" playOrder="70"><navLabel><text>5.2 Executing OpenAI functions</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_56"/><navPoint id="sigil_toc_id_57" playOrder="71"><navLabel><text>5.2.1 Adding functions to LLM API calls</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_57"/></navPoint>
+<navPoint id="sigil_toc_id_58" playOrder="72"><navLabel><text>5.2.2 Actioning function calls</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_58"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_59" playOrder="73"><navLabel><text>5.3 Introducing Semantic Kernel</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_59"/><navPoint id="sigil_toc_id_60" playOrder="74"><navLabel><text>5.3.1 Getting started with SK semantic functions</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_60"/></navPoint>
+<navPoint id="sigil_toc_id_61" playOrder="75"><navLabel><text>5.3.2 Semantic functions and context variables</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_61"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_62" playOrder="76"><navLabel><text>5.4 Synergizing semantic and native functions</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_62"/><navPoint id="sigil_toc_id_63" playOrder="77"><navLabel><text>5.4.1 Creating and registering a semantic skill/plugin</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_63"/></navPoint>
+<navPoint id="sigil_toc_id_64" playOrder="78"><navLabel><text>5.4.2 Applying native functions</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_64"/></navPoint>
+<navPoint id="sigil_toc_id_65" playOrder="79"><navLabel><text>5.4.3 Embedding native functions within semantic functions</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_65"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_66" playOrder="80"><navLabel><text>5.5 Semantic Kernel as an interactive service agent</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_66"/><navPoint id="sigil_toc_id_67" playOrder="81"><navLabel><text>5.5.1 Building a semantic GPT interface</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_67"/></navPoint>
+<navPoint id="sigil_toc_id_68" playOrder="82"><navLabel><text>5.5.2 Testing semantic services</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_68"/></navPoint>
+<navPoint id="sigil_toc_id_69" playOrder="83"><navLabel><text>5.5.3 Interactive chat with the semantic service layer</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_69"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_70" playOrder="84"><navLabel><text>5.6 Thinking semantically when writing semantic services</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_70"/></navPoint>
+<navPoint id="sigil_toc_id_71" playOrder="85"><navLabel><text>5.7 Exercises</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_71"/></navPoint>
+<navPoint id="sigil_toc_id_72" playOrder="86"><navLabel><text>Summary</text></navLabel><content src="chapter-5.xhtml#sigil_toc_id_72"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-6.html" playOrder="87"><navLabel><text>6 Building autonomous assistants</text></navLabel><content src="chapter-6.xhtml"/><navPoint id="sigil_toc_id_73" playOrder="88"><navLabel><text>6.1 Introducing behavior trees</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_73"/><navPoint id="sigil_toc_id_74" playOrder="89"><navLabel><text>6.1.1 Understanding behavior tree execution</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_74"/></navPoint>
+<navPoint id="sigil_toc_id_75" playOrder="90"><navLabel><text>6.1.2 Deciding on behavior trees</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_75"/></navPoint>
+<navPoint id="sigil_toc_id_76" playOrder="91"><navLabel><text>6.1.3 Running behavior trees with Python and py_trees</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_76"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_77" playOrder="92"><navLabel><text>6.2 Exploring the GPT Assistants Playground</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_77"/><navPoint id="sigil_toc_id_78" playOrder="93"><navLabel><text>6.2.1 Installing and running the Playground</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_78"/></navPoint>
+<navPoint id="sigil_toc_id_79" playOrder="94"><navLabel><text>6.2.2 Using and building custom actions</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_79"/></navPoint>
+<navPoint id="sigil_toc_id_80" playOrder="95"><navLabel><text>6.2.3 Installing the assistants database</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_80"/></navPoint>
+<navPoint id="sigil_toc_id_81" playOrder="96"><navLabel><text>6.2.4 Getting an assistant to run code locally</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_81"/></navPoint>
+<navPoint id="sigil_toc_id_82" playOrder="97"><navLabel><text>6.2.5 Investigating the assistant process through logs</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_82"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_83" playOrder="98"><navLabel><text>6.3 Introducing agentic behavior trees</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_83"/><navPoint id="sigil_toc_id_84" playOrder="99"><navLabel><text>6.3.1 Managing assistants with assistants</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_84"/></navPoint>
+<navPoint id="sigil_toc_id_85" playOrder="100"><navLabel><text>6.3.2 Building a coding challenge ABT</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_85"/></navPoint>
+<navPoint id="sigil_toc_id_86" playOrder="101"><navLabel><text>6.3.3 Conversational AI systems vs. other methods</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_86"/></navPoint>
+<navPoint id="sigil_toc_id_87" playOrder="102"><navLabel><text>6.3.4 Posting YouTube videos to X</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_87"/></navPoint>
+<navPoint id="sigil_toc_id_88" playOrder="103"><navLabel><text>6.3.5 Required X setup</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_88"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_89" playOrder="104"><navLabel><text>6.4 Building conversational autonomous multi-agents</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_89"/></navPoint>
+<navPoint id="sigil_toc_id_90" playOrder="105"><navLabel><text>6.5 Building ABTs with back chaining</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_90"/></navPoint>
+<navPoint id="sigil_toc_id_91" playOrder="106"><navLabel><text>6.6 Exercises</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_91"/></navPoint>
+<navPoint id="sigil_toc_id_92" playOrder="107"><navLabel><text>Summary</text></navLabel><content src="chapter-6.xhtml#sigil_toc_id_92"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-7.html" playOrder="108"><navLabel><text>7 Assembling and using an agent platform</text></navLabel><content src="chapter-7.xhtml"/><navPoint id="sigil_toc_id_93" playOrder="109"><navLabel><text>7.1 Introducing Nexus, not just another agent platform</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_93"/><navPoint id="sigil_toc_id_94" playOrder="110"><navLabel><text>7.1.1 Running Nexus</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_94"/></navPoint>
+<navPoint id="sigil_toc_id_95" playOrder="111"><navLabel><text>7.1.2 Developing Nexus</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_95"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_96" playOrder="112"><navLabel><text>7.2 Introducing Streamlit for chat application development</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_96"/><navPoint id="sigil_toc_id_97" playOrder="113"><navLabel><text>7.2.1 Building a Streamlit chat application</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_97"/></navPoint>
+<navPoint id="sigil_toc_id_98" playOrder="114"><navLabel><text>7.2.2 Creating a streaming chat application</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_98"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_99" playOrder="115"><navLabel><text>7.3 Developing profiles and personas for agents</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_99"/></navPoint>
+<navPoint id="sigil_toc_id_100" playOrder="116"><navLabel><text>7.4 Powering the agent and understanding the agent engine</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_100"/></navPoint>
+<navPoint id="sigil_toc_id_101" playOrder="117"><navLabel><text>7.5 Giving an agent actions and tools</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_101"/></navPoint>
+<navPoint id="sigil_toc_id_102" playOrder="118"><navLabel><text>7.6 Exercises</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_102"/></navPoint>
+<navPoint id="sigil_toc_id_103" playOrder="119"><navLabel><text>Summary</text></navLabel><content src="chapter-7.xhtml#sigil_toc_id_103"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-8.html" playOrder="120"><navLabel><text>8 Understanding agent memory and knowledge</text></navLabel><content src="chapter-8.xhtml"/><navPoint id="sigil_toc_id_104" playOrder="121"><navLabel><text>8.1 Understanding retrieval in AI applications</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_104"/></navPoint>
+<navPoint id="sigil_toc_id_105" playOrder="122"><navLabel><text>8.2 The basics of retrieval augmented generation (RAG)</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_105"/></navPoint>
+<navPoint id="sigil_toc_id_106" playOrder="123"><navLabel><text>8.3 Delving into semantic search and document indexing</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_106"/><navPoint id="sigil_toc_id_107" playOrder="124"><navLabel><text>8.3.1 Applying vector similarity search</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_107"/></navPoint>
+<navPoint id="sigil_toc_id_108" playOrder="125"><navLabel><text>8.3.2 Vector databases and similarity search</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_108"/></navPoint>
+<navPoint id="sigil_toc_id_109" playOrder="126"><navLabel><text>8.3.3 Demystifying document embeddings</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_109"/></navPoint>
+<navPoint id="sigil_toc_id_110" playOrder="127"><navLabel><text>8.3.4 Querying document embeddings from Chroma</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_110"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_111" playOrder="128"><navLabel><text>8.4 Constructing RAG with LangChain</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_111"/><navPoint id="sigil_toc_id_112" playOrder="129"><navLabel><text>8.4.1 Splitting and loading documents with LangChain</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_112"/></navPoint>
+<navPoint id="sigil_toc_id_113" playOrder="130"><navLabel><text>8.4.2 Splitting documents by token with LangChain</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_113"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_114" playOrder="131"><navLabel><text>8.5 Applying RAG to building agent knowledge</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_114"/></navPoint>
+<navPoint id="sigil_toc_id_115" playOrder="132"><navLabel><text>8.6 Implementing memory in agentic systems</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_115"/><navPoint id="sigil_toc_id_116" playOrder="133"><navLabel><text>8.6.1 Consuming memory stores in Nexus</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_116"/></navPoint>
+<navPoint id="sigil_toc_id_117" playOrder="134"><navLabel><text>8.6.2 Semantic memory and applications to semantic, episodic, and procedural memory</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_117"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_118" playOrder="135"><navLabel><text>8.7 Understanding memory and knowledge compression</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_118"/></navPoint>
+<navPoint id="sigil_toc_id_119" playOrder="136"><navLabel><text>8.8 Exercises</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_119"/></navPoint>
+<navPoint id="sigil_toc_id_120" playOrder="137"><navLabel><text>Summary</text></navLabel><content src="chapter-8.xhtml#sigil_toc_id_120"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-9.html" playOrder="138"><navLabel><text>9 Mastering agent prompts with prompt flow</text></navLabel><content src="chapter-9.xhtml"/><navPoint id="sigil_toc_id_121" playOrder="139"><navLabel><text>9.1 Why we need systematic prompt engineering</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_121"/></navPoint>
+<navPoint id="sigil_toc_id_122" playOrder="140"><navLabel><text>9.2 Understanding agent profiles and personas</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_122"/></navPoint>
+<navPoint id="sigil_toc_id_123" playOrder="141"><navLabel><text>9.3 Setting up your first prompt flow</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_123"/><navPoint id="sigil_toc_id_124" playOrder="142"><navLabel><text>9.3.1 Getting started</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_124"/></navPoint>
+<navPoint id="sigil_toc_id_125" playOrder="143"><navLabel><text>9.3.2 Creating profiles with Jinja2 templates</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_125"/></navPoint>
+<navPoint id="sigil_toc_id_126" playOrder="144"><navLabel><text>9.3.3 Deploying a prompt flow API</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_126"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_127" playOrder="145"><navLabel><text>9.4 Evaluating profiles: Rubrics and grounding</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_127"/></navPoint>
+<navPoint id="sigil_toc_id_128" playOrder="146"><navLabel><text>9.5 Understanding rubrics and grounding</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_128"/></navPoint>
+<navPoint id="sigil_toc_id_129" playOrder="147"><navLabel><text>9.6 Grounding evaluation with an LLM profile</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_129"/></navPoint>
+<navPoint id="sigil_toc_id_130" playOrder="148"><navLabel><text>9.7 Comparing profiles: Getting the perfect profile</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_130"/><navPoint id="sigil_toc_id_131" playOrder="149"><navLabel><text>9.7.1 Parsing the LLM evaluation output</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_131"/></navPoint>
+<navPoint id="sigil_toc_id_132" playOrder="150"><navLabel><text>9.7.2 Running batch processing in prompt flow</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_132"/></navPoint>
+<navPoint id="sigil_toc_id_133" playOrder="151"><navLabel><text>9.7.3 Creating an evaluation flow for grounding</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_133"/></navPoint>
+<navPoint id="sigil_toc_id_134" playOrder="152"><navLabel><text>9.7.4 Exercises</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_134"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_135" playOrder="153"><navLabel><text>Summary</text></navLabel><content src="chapter-9.xhtml#sigil_toc_id_135"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-10.html" playOrder="154"><navLabel><text>10 Agent reasoning and evaluation</text></navLabel><content src="chapter-10.xhtml"/><navPoint id="sigil_toc_id_136" playOrder="155"><navLabel><text>10.1 Understanding direct solution prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_136"/><navPoint id="sigil_toc_id_137" playOrder="156"><navLabel><text>10.1.1 Question-and-answer prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_137"/></navPoint>
+<navPoint id="sigil_toc_id_138" playOrder="157"><navLabel><text>10.1.2 Implementing few-shot prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_138"/></navPoint>
+<navPoint id="sigil_toc_id_139" playOrder="158"><navLabel><text>10.1.3 Extracting generalities with zero-shot prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_139"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_140" playOrder="159"><navLabel><text>10.2 Reasoning in prompt engineering</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_140"/><navPoint id="sigil_toc_id_141" playOrder="160"><navLabel><text>10.2.1 Chain of thought prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_141"/></navPoint>
+<navPoint id="sigil_toc_id_142" playOrder="161"><navLabel><text>10.2.2 Zero-shot CoT prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_142"/></navPoint>
+<navPoint id="sigil_toc_id_143" playOrder="162"><navLabel><text>10.2.3 Step by step with prompt chaining</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_143"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_144" playOrder="163"><navLabel><text>10.3 Employing evaluation for consistent solutions</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_144"/><navPoint id="sigil_toc_id_145" playOrder="164"><navLabel><text>10.3.1 Evaluating self-consistency prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_145"/></navPoint>
+<navPoint id="sigil_toc_id_146" playOrder="165"><navLabel><text>10.3.2 Evaluating tree of thought prompting</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_146"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_147" playOrder="166"><navLabel><text>10.4 Exercises</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_147"/></navPoint>
+<navPoint id="sigil_toc_id_148" playOrder="167"><navLabel><text>Summary</text></navLabel><content src="chapter-10.xhtml#sigil_toc_id_148"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fchapter-11.html" playOrder="168"><navLabel><text>11 Agent planning and feedback</text></navLabel><content src="chapter-11.xhtml"/><navPoint id="sigil_toc_id_149" playOrder="169"><navLabel><text>11.1 Planning: The essential tool for all agents/assistants</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_149"/></navPoint>
+<navPoint id="sigil_toc_id_150" playOrder="170"><navLabel><text>11.2 Understanding the sequential planning process</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_150"/></navPoint>
+<navPoint id="sigil_toc_id_151" playOrder="171"><navLabel><text>11.3 Building a sequential planner</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_151"/></navPoint>
+<navPoint id="sigil_toc_id_152" playOrder="172"><navLabel><text>11.4 Reviewing a stepwise planner: OpenAI Strawberry</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_152"/></navPoint>
+<navPoint id="sigil_toc_id_153" playOrder="173"><navLabel><text>11.5 Applying planning, reasoning, evaluation, and feedback to assistant and agentic systems</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_153"/><navPoint id="sigil_toc_id_154" playOrder="174"><navLabel><text>11.5.1 Application of assistant/agentic planning</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_154"/></navPoint>
+<navPoint id="sigil_toc_id_155" playOrder="175"><navLabel><text>11.5.2 Application of assistant/agentic reasoning</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_155"/></navPoint>
+<navPoint id="sigil_toc_id_156" playOrder="176"><navLabel><text>11.5.3 Application of evaluation to agentic systems</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_156"/></navPoint>
+<navPoint id="sigil_toc_id_157" playOrder="177"><navLabel><text>11.5.4 Application of feedback to agentic/assistant applications</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_157"/></navPoint>
+</navPoint>
+<navPoint id="sigil_toc_id_158" playOrder="178"><navLabel><text>11.6 Exercises</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_158"/></navPoint>
+<navPoint id="sigil_toc_id_159" playOrder="179"><navLabel><text>Summary</text></navLabel><content src="chapter-11.xhtml#sigil_toc_id_159"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fappendix-a.html" playOrder="180"><navLabel><text>appendix A Accessing OpenAI large language models</text></navLabel><content src="appendix-a.xhtml"/><navPoint id="sigil_toc_id_160" playOrder="181"><navLabel><text>A.1 Accessing OpenAI accounts and keys</text></navLabel><content src="appendix-a.xhtml#sigil_toc_id_160"/></navPoint>
+<navPoint id="sigil_toc_id_161" playOrder="182"><navLabel><text>A.2 Azure OpenAI Studio, keys, and deployments</text></navLabel><content src="appendix-a.xhtml#sigil_toc_id_161"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2fappendix-b.html" playOrder="183"><navLabel><text>appendix B Python development environment</text></navLabel><content src="appendix-b.xhtml"/><navPoint id="sigil_toc_id_162" playOrder="184"><navLabel><text>B.1 Downloading the source code</text></navLabel><content src="appendix-b.xhtml#sigil_toc_id_162"/></navPoint>
+<navPoint id="sigil_toc_id_163" playOrder="185"><navLabel><text>B.2 Installing Python</text></navLabel><content src="appendix-b.xhtml#sigil_toc_id_163"/></navPoint>
+<navPoint id="sigil_toc_id_164" playOrder="186"><navLabel><text>B.3 Installing VS Code</text></navLabel><content src="appendix-b.xhtml#sigil_toc_id_164"/></navPoint>
+<navPoint id="sigil_toc_id_165" playOrder="187"><navLabel><text>B.4 Installing VS Code Python extensions</text></navLabel><content src="appendix-b.xhtml#sigil_toc_id_165"/></navPoint>
+<navPoint id="sigil_toc_id_166" playOrder="188"><navLabel><text>B.5 Creating a new Python environment with VS Code</text></navLabel><content src="appendix-b.xhtml#sigil_toc_id_166"/></navPoint>
+<navPoint id="sigil_toc_id_167" playOrder="189"><navLabel><text>B.6 Using VS Code Dev Containers (Docker)</text></navLabel><content src="appendix-b.xhtml#sigil_toc_id_167"/></navPoint>
+</navPoint>
+<navPoint id="urn:orm:book:9781633436343:chapter:Text%2findex.html" playOrder="190"><navLabel><text>index</text></navLabel><content src="index.xhtml"/></navPoint>
+</navMap>
+</ncx>

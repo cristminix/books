@@ -1,0 +1,15 @@
+baca @claude-code/net-ninja/intro.id.txt lalu buat artikel dan simpan dalam format  markdown 
+baca @claude-code/net-ninja/02-claude-md-init.txt lalu buat artikel dan simpan dalam format  markdown 
+
+ bantu saya mengunduh transkrip dari video youtube https://www.youtube.com/watch?v=ob-mYGqqFQw dengan yt-dlp simpan kedalam        │
+│   folder claude-code/net-ninja   
+
+bantu saya mengubah @claude-code/net-ninja/03-context.en.vtt ke file teks
+
+use shell command add new line after "." charachter on @claude-code/net-ninja/03-context.en.txt                     │
+
+
+> download transcript using yt-dlp from https://www.youtube.com/watch?v=MTGJuu9CeMk save to claude-code/net-ninja folder
+
+help me convert @claude-code/net-ninja/04-tools-and-permissions.en.vtt to text file remember to add new line after "." 
+  charachter

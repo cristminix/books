@@ -1,0 +1,1 @@
+![Cover](Images/default_cover.jpeg)

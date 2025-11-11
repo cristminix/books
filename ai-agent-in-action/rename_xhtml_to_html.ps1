@@ -1,0 +1,1 @@
+Get-ChildItem -Path . -Filter "*.xhtml" | Rename-Item -NewName { $_.Name -replace "\.xhtml$", ".html" }

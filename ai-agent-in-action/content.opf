@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" >
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>AI Agents in Action</dc:title>
+<dc:creator opf:file-as="Micheal Lanham" opf:role="aut">Micheal Lanham</dc:creator>
+<dc:description>&lt;span&gt;&lt;b&gt;Create LLM-powered autonomous agents and intelligent assistants tailored to your business and personal needs.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;
+
+From script-free customer service chatbots to fully independent agents operating seamlessly in the background, AI-powered assistants represent a breakthrough in machine intelligence. In &lt;i&gt;AI Agents in Action&lt;/i&gt;, you&#x27;ll master a proven framework for developing practical agents that handle real-world business and personal tasks.&lt;br/&gt;&lt;br/&gt;
+
+Author &lt;b&gt;Micheal Lanham&lt;/b&gt; combines cutting-edge academic research with hands-on experience to help you:&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;&lt;li&gt;Understand and implement AI agent behavior patterns&lt;/li&gt;&lt;li&gt;Design and deploy production-ready intelligent agents&lt;/li&gt;&lt;li&gt;Leverage the OpenAI Assistants API and complementary tools&lt;/li&gt;&lt;li&gt;Implement robust knowledge management and memory systems&lt;/li&gt;&lt;li&gt;Create self-improving agents with feedback loops&lt;/li&gt;&lt;li&gt;Orchestrate collaborative multi-agent systems&lt;/li&gt;&lt;li&gt;Enhance agents with speech and vision capabilities&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;
+
+You won&#x27;t find toy examples or fragile assistants that require constant supervision. &lt;i&gt;AI Agents in Action&lt;/i&gt; teaches you to build trustworthy AI capable of handling high-stakes negotiations. You&#x27;ll master prompt engineering to create agents with distinct personas and profiles, and develop multi-agent collaborations that thrive in unpredictable environments. Beyond just learning a new technology, you&#x27;ll discover a transformative approach to problem-solving.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;About the Technology&lt;/b&gt;&lt;br/&gt;Most production AI systems require many orchestrated interactions between the user, AI models, and a wide variety of data sources. AI agents capture and organize these interactions into autonomous components that can process information, make decisions, and learn from interactions behind the scenes. This book will show you how to create AI agents and connect them together into powerful multi-agent systems.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;About the Book&lt;/b&gt;&lt;br/&gt;In &lt;i&gt;AI Agents in Action&lt;/i&gt;, you’ll learn how to build production-ready assistants, multi-agent systems, and behavioral agents. You’ll master the essential parts of an agent, including retrieval-augmented knowledge and memory, while you create multi-agent applications that can use software tools, plan tasks autonomously, and learn from experience. As you explore the many interesting examples, you’ll work with state-of-the-art tools like OpenAI Assistants API, GPT Nexus, LangChain, Prompt Flow, AutoGen, and CrewAI.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;What&#x27;s Inside&lt;/b&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Knowledge management and memory systems&lt;/li&gt;&lt;li&gt;Feedback loops for continuous agent learning&lt;/li&gt;&lt;li&gt;Collaborative multi-agent systems&lt;/li&gt;&lt;li&gt;Speech and computer vision&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;About the Reader&lt;/b&gt;&lt;br/&gt;For intermediate Python programmers.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;About the Author&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Micheal Lanham&lt;/b&gt; is a software and technology innovator with over 20 years of industry experience. He has authored books on deep learning, including Manning’s &lt;a href=&quot;https://www.manning.com/books/evolutionary-deep-learning&quot;&gt;&lt;i&gt;Evolutionary Deep Learning&lt;/i&gt;&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Quotes&lt;/b&gt;&lt;br/&gt;&lt;i&gt;This is about to become the hottest area of applied AI. Get a head start with this book!&lt;/i&gt;&lt;br/&gt;- Richard Davies, author of Prompt Engineering in Practice&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Couldn’t put this book down! It’s so comprehensive and clear that I felt like I was learning from a master teacher.&lt;/i&gt;&lt;br/&gt;- Radhika Kanubaddhi, Amazon&lt;br/&gt;&lt;br/&gt;&lt;i&gt;An enlightening journey! This book transformed my questions into answers.&lt;/i&gt;&lt;br/&gt;- Jose San Leandro, ACM-SL&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Expertly guides through creating agent profiles, using tools, memory, planning, and multi-agent systems. Couldn’t be more timely!&lt;/i&gt;&lt;br/&gt;- Grigory Sapunov author of JAX in Action&lt;br/&gt;&lt;br/&gt;
+&lt;/span&gt;</dc:description>
+<dc:publisher>Manning Publications</dc:publisher>
+<dc:rights></dc:rights>
+<dc:language>en-US</dc:language>
+<dc:date>2025-02-12</dc:date>
+<dc:identifier id="bookid">9781633436343</dc:identifier>
+<meta name="cover" content="Images/default_cover.jpeg"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+<item id="default_cover" href="default_cover.xhtml" media-type="application/xhtml+xml" />
+<item id="about-the-cover-illustration" href="about-the-cover-illustration.xhtml" media-type="application/xhtml+xml" />
+<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" />
+<item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml" />
+<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml" />
+<item id="contents" href="contents.xhtml" media-type="application/xhtml+xml" />
+<item id="preface" href="preface.xhtml" media-type="application/xhtml+xml" />
+<item id="acknowledgments" href="acknowledgments.xhtml" media-type="application/xhtml+xml" />
+<item id="about-this-book" href="about-this-book.xhtml" media-type="application/xhtml+xml" />
+<item id="about-the-author" href="about-the-author.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-1" href="chapter-1.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-2" href="chapter-2.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-3" href="chapter-3.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-4" href="chapter-4.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-5" href="chapter-5.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-6" href="chapter-6.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-7" href="chapter-7.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-8" href="chapter-8.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-9" href="chapter-9.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-10" href="chapter-10.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter-11" href="chapter-11.xhtml" media-type="application/xhtml+xml" />
+<item id="appendix-a" href="appendix-a.xhtml" media-type="application/xhtml+xml" />
+<item id="appendix-b" href="appendix-b.xhtml" media-type="application/xhtml+xml" />
+<item id="index" href="index.xhtml" media-type="application/xhtml+xml" />
+<item id="img_1-1" href="Images/1-1.png" media-type="image/png" />
+<item id="img_8-5" href="Images/8-5.png" media-type="image/png" />
+<item id="img_2-7" href="Images/2-7.png" media-type="image/png" />
+<item id="img_3-1" href="Images/3-1.png" media-type="image/png" />
+<item id="img_8-10" href="Images/8-10.png" media-type="image/png" />
+<item id="img_1-3" href="Images/1-3.png" media-type="image/png" />
+<item id="img_11-4" href="Images/11-4.png" media-type="image/png" />
+<item id="img_10-7" href="Images/10-7.png" media-type="image/png" />
+<item id="img_7-8" href="Images/7-8.png" media-type="image/png" />
+<item id="img_A-4" href="Images/A-4.png" media-type="image/png" />
+<item id="img_9-15" href="Images/9-15.png" media-type="image/png" />
+<item id="img_11-5" href="Images/11-5.png" media-type="image/png" />
+<item id="img_3-14" href="Images/3-14.png" media-type="image/png" />
+<item id="img_B-2" href="Images/B-2.png" media-type="image/png" />
+<item id="img_9-19" href="Images/9-19.png" media-type="image/png" />
+<item id="img_9-24" href="Images/9-24.png" media-type="image/png" />
+<item id="img_6-5" href="Images/6-5.png" media-type="image/png" />
+<item id="img_1-8" href="Images/1-8.png" media-type="image/png" />
+<item id="img_2-2" href="Images/2-2.png" media-type="image/png" />
+<item id="img_B-1" href="Images/B-1.png" media-type="image/png" />
+<item id="img_A-3" href="Images/A-3.png" media-type="image/png" />
+<item id="img_2-5" href="Images/2-5.png" media-type="image/png" />
+<item id="img_3-9" href="Images/3-9.png" media-type="image/png" />
+<item id="img_1-4" href="Images/1-4.png" media-type="image/png" />
+<item id="img_10-8" href="Images/10-8.png" media-type="image/png" />
+<item id="img_3-3" href="Images/3-3.png" media-type="image/png" />
+<item id="img_3-7" href="Images/3-7.png" media-type="image/png" />
+<item id="img_8-13" href="Images/8-13.png" media-type="image/png" />
+<item id="img_9-25" href="Images/9-25.png" media-type="image/png" />
+<item id="img_8-15" href="Images/8-15.png" media-type="image/png" />
+<item id="img_2-10" href="Images/2-10.png" media-type="image/png" />
+<item id="img_9-26" href="Images/9-26.png" media-type="image/png" />
+<item id="img_4-11" href="Images/4-11.png" media-type="image/png" />
+<item id="img_4-3" href="Images/4-3.png" media-type="image/png" />
+<item id="img_A-5" href="Images/A-5.png" media-type="image/png" />
+<item id="img_8-20" href="Images/8-20.png" media-type="image/png" />
+<item id="img_A-6" href="Images/A-6.png" media-type="image/png" />
+<item id="img_3-12" href="Images/3-12.png" media-type="image/png" />
+<item id="img_7-3" href="Images/7-3.png" media-type="image/png" />
+<item id="img_7-9" href="Images/7-9.png" media-type="image/png" />
+<item id="img_9-22" href="Images/9-22.png" media-type="image/png" />
+<item id="img_8-18" href="Images/8-18.png" media-type="image/png" />
+<item id="img_6-11" href="Images/6-11.png" media-type="image/png" />
+<item id="img_9-1" href="Images/9-1.png" media-type="image/png" />
+<item id="img_8-6" href="Images/8-6.png" media-type="image/png" />
+<item id="img_10-9" href="Images/10-9.png" media-type="image/png" />
+<item id="img_6-6" href="Images/6-6.png" media-type="image/png" />
+<item id="img_5-8" href="Images/5-8.png" media-type="image/png" />
+<item id="img_1-6" href="Images/1-6.png" media-type="image/png" />
+<item id="img_4-9" href="Images/4-9.png" media-type="image/png" />
+<item id="img_1-10" href="Images/1-10.png" media-type="image/png" />
+<item id="img_1-5" href="Images/1-5.png" media-type="image/png" />
+<item id="img_8-16" href="Images/8-16.png" media-type="image/png" />
+<item id="img_9-7" href="Images/9-7.png" media-type="image/png" />
+<item id="img_2-8" href="Images/2-8.png" media-type="image/png" />
+<item id="img_manning_m" href="Images/manning_m.jpg" media-type="image/jpeg" />
+<item id="img_9-16" href="Images/9-16.png" media-type="image/png" />
+<item id="img_A-2" href="Images/A-2.png" media-type="image/png" />
+<item id="img_11-2" href="Images/11-2.png" media-type="image/png" />
+<item id="img_4-2" href="Images/4-2.png" media-type="image/png" />
+<item id="img_8-2" href="Images/8-2.png" media-type="image/png" />
+<item id="img_11-7" href="Images/11-7.png" media-type="image/png" />
+<item id="img_8-11" href="Images/8-11.png" media-type="image/png" />
+<item id="img_1-9" href="Images/1-9.png" media-type="image/png" />
+<item id="img_7-2" href="Images/7-2.png" media-type="image/png" />
+<item id="img_9-10" href="Images/9-10.png" media-type="image/png" />
+<item id="img_11-1" href="Images/11-1.png" media-type="image/png" />
+<item id="img_6-3" href="Images/6-3.png" media-type="image/png" />
+<item id="img_5-9" href="Images/5-9.png" media-type="image/png" />
+<item id="img_3-2" href="Images/3-2.png" media-type="image/png" />
+<item id="img_cover0001" href="Images/cover0001.jpg" media-type="image/jpeg" />
+<item id="img_6-2" href="Images/6-2.png" media-type="image/png" />
+<item id="img_9-18" href="Images/9-18.png" media-type="image/png" />
+<item id="img_4-1" href="Images/4-1.png" media-type="image/png" />
+<item id="img_8-21" href="Images/8-21.png" media-type="image/png" />
+<item id="img_8-14" href="Images/8-14.png" media-type="image/png" />
+<item id="img_10-1" href="Images/10-1.png" media-type="image/png" />
+<item id="img_9-20" href="Images/9-20.png" media-type="image/png" />
+<item id="img_4-6" href="Images/4-6.png" media-type="image/png" />
+<item id="img_5-7" href="Images/5-7.png" media-type="image/png" />
+<item id="img_3-11" href="Images/3-11.png" media-type="image/png" />
+<item id="img_11-6" href="Images/11-6.png" media-type="image/png" />
+<item id="img_9-2" href="Images/9-2.png" media-type="image/png" />
+<item id="img_11-8" href="Images/11-8.png" media-type="image/png" />
+<item id="img_9-9" href="Images/9-9.png" media-type="image/png" />
+<item id="img_6-10" href="Images/6-10.png" media-type="image/png" />
+<item id="img_3-13" href="Images/3-13.png" media-type="image/png" />
+<item id="img_3-6" href="Images/3-6.png" media-type="image/png" />
+<item id="img_8-12" href="Images/8-12.png" media-type="image/png" />
+<item id="img_4-12" href="Images/4-12.png" media-type="image/png" />
+<item id="img_5-1" href="Images/5-1.png" media-type="image/png" />
+<item id="img_7-6" href="Images/7-6.png" media-type="image/png" />
+<item id="img_6-8" href="Images/6-8.png" media-type="image/png" />
+<item id="img_6-4" href="Images/6-4.png" media-type="image/png" />
+<item id="img_8-7" href="Images/8-7.png" media-type="image/png" />
+<item id="img_5-3" href="Images/5-3.png" media-type="image/png" />
+<item id="img_3-4" href="Images/3-4.png" media-type="image/png" />
+<item id="img_7-7" href="Images/7-7.png" media-type="image/png" />
+<item id="img_Manning_M_small" href="Images/Manning_M_small.png" media-type="image/png" />
+<item id="img_6-9" href="Images/6-9.png" media-type="image/png" />
+<item id="img_10-5" href="Images/10-5.png" media-type="image/png" />
+<item id="img_7-1" href="Images/7-1.png" media-type="image/png" />
+<item id="img_10-10" href="Images/10-10.png" media-type="image/png" />
+<item id="img_10-3" href="Images/10-3.png" media-type="image/png" />
+<item id="img_6-7" href="Images/6-7.png" media-type="image/png" />
+<item id="img_default_cover" href="Images/default_cover.jpeg" media-type="image/jpeg" />
+<item id="img_3-5" href="Images/3-5.png" media-type="image/png" />
+<item id="img_4-10" href="Images/4-10.png" media-type="image/png" />
+<item id="img_9-17" href="Images/9-17.png" media-type="image/png" />
+<item id="img_5-6" href="Images/5-6.png" media-type="image/png" />
+<item id="img_10-6" href="Images/10-6.png" media-type="image/png" />
+<item id="img_A-1" href="Images/A-1.png" media-type="image/png" />
+<item id="img_1-7" href="Images/1-7.png" media-type="image/png" />
+<item id="img_Lanham2" href="Images/Lanham2.png" media-type="image/png" />
+<item id="img_8-3" href="Images/8-3.png" media-type="image/png" />
+<item id="img_8-9" href="Images/8-9.png" media-type="image/png" />
+<item id="img_7-4" href="Images/7-4.png" media-type="image/png" />
+<item id="img_4-4" href="Images/4-4.png" media-type="image/png" />
+<item id="img_5-2" href="Images/5-2.png" media-type="image/png" />
+<item id="img_8-17" href="Images/8-17.png" media-type="image/png" />
+<item id="img_9-12" href="Images/9-12.png" media-type="image/png" />
+<item id="img_8-19" href="Images/8-19.png" media-type="image/png" />
+<item id="img_9-5" href="Images/9-5.png" media-type="image/png" />
+<item id="img_10-4" href="Images/10-4.png" media-type="image/png" />
+<item id="img_8-1" href="Images/8-1.png" media-type="image/png" />
+<item id="img_2-6" href="Images/2-6.png" media-type="image/png" />
+<item id="img_5-5" href="Images/5-5.png" media-type="image/png" />
+<item id="img_9-8" href="Images/9-8.png" media-type="image/png" />
+<item id="img_10-2" href="Images/10-2.png" media-type="image/png" />
+<item id="img_1-2" href="Images/1-2.png" media-type="image/png" />
+<item id="img_4-8" href="Images/4-8.png" media-type="image/png" />
+<item id="img_2-11" href="Images/2-11.png" media-type="image/png" />
+<item id="img_4-7" href="Images/4-7.png" media-type="image/png" />
+<item id="img_2-1" href="Images/2-1.png" media-type="image/png" />
+<item id="img_9-23" href="Images/9-23.png" media-type="image/png" />
+<item id="img_9-21" href="Images/9-21.png" media-type="image/png" />
+<item id="img_9-13" href="Images/9-13.png" media-type="image/png" />
+<item id="img_B-3" href="Images/B-3.png" media-type="image/png" />
+<item id="img_4-5" href="Images/4-5.png" media-type="image/png" />
+<item id="img_7-5" href="Images/7-5.png" media-type="image/png" />
+<item id="img_9-14" href="Images/9-14.png" media-type="image/png" />
+<item id="img_6-1" href="Images/6-1.png" media-type="image/png" />
+<item id="img_9-11" href="Images/9-11.png" media-type="image/png" />
+<item id="img_9-4" href="Images/9-4.png" media-type="image/png" />
+<item id="img_10-11" href="Images/10-11.png" media-type="image/png" />
+<item id="img_3-10" href="Images/3-10.png" media-type="image/png" />
+<item id="img_2-9" href="Images/2-9.png" media-type="image/png" />
+<item id="img_8-8" href="Images/8-8.png" media-type="image/png" />
+<item id="img_8-4" href="Images/8-4.png" media-type="image/png" />
+<item id="img_5-4" href="Images/5-4.png" media-type="image/png" />
+<item id="img_11-3" href="Images/11-3.png" media-type="image/png" />
+<item id="img_2-3" href="Images/2-3.png" media-type="image/png" />
+<item id="img_2-4" href="Images/2-4.png" media-type="image/png" />
+<item id="img_4-13" href="Images/4-13.png" media-type="image/png" />
+<item id="img_9-6" href="Images/9-6.png" media-type="image/png" />
+<item id="img_9-3" href="Images/9-3.png" media-type="image/png" />
+<item id="img_3-8" href="Images/3-8.png" media-type="image/png" />
+<item id="img_11-9" href="Images/11-9.png" media-type="image/png" />
+<item id="style_00" href="Styles/Style00.css" media-type="text/css" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="default_cover"/>
+<itemref idref="about-the-cover-illustration"/>
+<itemref idref="titlepage"/>
+<itemref idref="title"/>
+<itemref idref="copyright"/>
+<itemref idref="dedication"/>
+<itemref idref="contents"/>
+<itemref idref="preface"/>
+<itemref idref="acknowledgments"/>
+<itemref idref="about-this-book"/>
+<itemref idref="about-the-author"/>
+<itemref idref="chapter-1"/>
+<itemref idref="chapter-2"/>
+<itemref idref="chapter-3"/>
+<itemref idref="chapter-4"/>
+<itemref idref="chapter-5"/>
+<itemref idref="chapter-6"/>
+<itemref idref="chapter-7"/>
+<itemref idref="chapter-8"/>
+<itemref idref="chapter-9"/>
+<itemref idref="chapter-10"/>
+<itemref idref="chapter-11"/>
+<itemref idref="appendix-a"/>
+<itemref idref="appendix-b"/>
+<itemref idref="index"/></spine>
+<guide><reference href="default_cover.xhtml" title="Cover" type="cover" /></guide>
+</package>

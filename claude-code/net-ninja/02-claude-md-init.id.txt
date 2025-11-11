@@ -1,0 +1,139 @@
+Baiklah.
+Jadi sekarang kita sudah menyiapkan dan menjalankan kode Claude di dalam proyek ini.
+Saya ingin mulai menggunakannya untuk membuat beberapa perubahan pada kode dan mengerjakan komponen baru.
+Namun sebelum itu, selalu merupakan ide yang baik ketika Anda mulai menggunakan perintah forward/init untuk menginisialisasi file claude.md di dalam root proyek.
+Dan ketika kita melakukan ini, Claude memindai seluruh basis kode.
+Ia melihat struktur folder, bagaimana kita memulai aplikasi, manajemen status apa pun yang kita gunakan, dll. seluruh Shazam sehingga ia mendapatkan gambaran yang baik tentang proyek, di mana semuanya berada dan bagaimana ia harus membuat kode fitur baru di masa mendatang.
+Kemudian ia meringkas semua itu dan membuang informasi tersebut ke dalam file claude.md dalam format yang terstruktur dan mudah dibaca manusia.
+Kemudian setiap kali kita memiliki sesi aktif dengan kode Claude untuk menanyakan tentang kode proyek kita atau untuk membuat perubahan pada kode, ia menggunakan file claude.md itu sebagai konteks dan panduan.
+Ini hampir seperti dokumentasi mini kode Anda untuk digunakan Claude setiap kali ia mencoba mencari cara terbaik untuk mengimplementasikan sesuatu atau memberikan umpan balik.
+Jadi kemudian saya akan menekan enter sekarang untuk menjalankan perintah ini dan melihat apa yang dihasilkannya.
+Dan Anda dapat melihat saat ia melakukan ini, ia telah membuat daftar tugas kecil untuk dirinya sendiri.
+Ia akan menjelajahi repositori, menganalisis package.json dan kode sumber.
+Ia akan memeriksa file dokumentasi yang ada.
+Dan kemudian akhirnya, ia akan membuat file claude.md ini di bagian bawah.
+Dan Anda dapat melihat bahwa ia semacam mencentang hal-hal saat ia melakukannya.
+Jadi, sangat bagus untuk melihat kemajuan dari apa yang ia lakukan di antara semua itu.
+Ia membaca file-file.
+Ia mencari sesuatu.
+Jadi, ya, ia melakukan tugas yang sangat ekstensif.
+Baiklah.
+Kemudian, setelah ia melakukan semua itu, Anda dapat melihat ia telah membuat rencana ini.
+Dan jika kita gulir ke bawah, ia bertanya kepada kita, apakah Anda ingin membuat file claude.md ini?
+Dan saya akan memilih ya.
+Jadi kemudian ia melanjutkan untuk membuat file itu, yang sekarang dapat kita lihat di root direktori proyek.
+Jadi mari kita buka itu di sini dan lihat seperti apa.
+Jadi Anda dapat melihat file ini memberikan panduan kepada kode Claude saat bekerja dengan kode di repositori ini.
+Jadi ia memiliki beberapa perintah pengembangan yang berbeda yang ia temukan dari package.json di sini.
+Ia memiliki gambaran umum arsitektur.
+Jadi ia mengatakan apa itu secara singkat.
+Ini adalah aplikasi blog Next.js 15.
+Anda dapat melihat berbagai hal yang kita gunakan di dalamnya.
+Jadi React 19, Tailwind, V4, Vest, dll.
+Kita memiliki struktur proyek, yang cukup bagus.
+Jadi ia tahu bahwa ketika ia membuat file baru, semoga di mana harus meletakkan file-file itu.
+Kita memiliki arsitektur data di sini.
+Jadi ia tahu bahwa kita menggunakan Higraph untuk konten.
+Dan di sini kita memiliki informasi tentang gaya.
+Kita memiliki pengaturan pengujian di sini dan beberapa catatan pengembangan tambahan juga.
+Jadi, ini cukup komprehensif.
+Ini memberikan Kode Claude panduan yang baik tentang apa yang kita lakukan.
+Dan setiap kali kita membuat perubahan, ia dapat menggunakan panduan ini.
+Sekarang, karena saya sudah memulai proyek ini sebelum Kode Claude terlibat, ia dapat memindai basis kode saya yang ada dan mengambil banyak hal.
+Jadi, ia dapat membuat file Claude yang terperinci berdasarkan kode yang saya miliki.
+Tetapi jika Anda memulai dengan proyek baru dengan hampir tidak ada file atau kode pengaturan, maka ia akan memiliki lebih sedikit untuk dikerjakan.
+Dan file claude.md mungkin tidak akan banyak isinya.
+Tetapi dalam kasus itu, Anda dapat secara manual masuk ke file dan mengeditnya sendiri untuk menguraikan struktur proyek tingkat tinggi yang akan Anda terapkan, alat, paket, atau kerangka kerja apa pun yang akan Anda gunakan, preferensi gaya kode Anda, dan pada dasarnya ringkasan keseluruhan aplikasi.
+Dan Anda dapat memperbaruinya seiring berjalannya waktu.
+Dan bagian terakhir itu penting apakah Anda memulai dengan proyek baru atau yang sudah ada karena Anda harus menjaga file ini tetap diperbarui jika Anda mengubah struktur file Anda, paket apa pun yang Anda gunakan, atau hal lain yang diuraikan di dalam file ini.
+Jika tidak, maka kode Claude mungkin tidak secara otomatis mengambil perubahan itu, dan ia bisa pergi ke arah yang sama sekali berbeda ketika Anda memintanya untuk melakukan sesuatu.
+Bagaimanapun, file Claude MD ini sekarang secara otomatis ditambahkan ke konteks sesi sehingga Claude dapat merujuknya ketika ia membuat perubahan.
+Dan Anda akan menemukan bahwa menjaga file Claude yang mutakhir seperti ini menghasilkan generasi kode yang jauh lebih baik.
+Jadi sekarang setelah kita memiliki file ini, mari kita minta kode Claude untuk melakukan sesuatu dan melihat apakah ia mematuhi panduan.
+Jadi yang ingin saya minta Claude Co lakukan untuk kita adalah membuat hook baru yang akan menyimpan preferensi tema pengguna berdasarkan tema apa pun yang mereka miliki ketika mereka mengaktifkan ikon kecil itu di sudut kanan atas.
+Sekarang saya perhatikan bahwa di dalam file Claude di sini, kita tidak mereferensikan folder hooks.
+Jadi ini akan menjadi kesempatan yang baik untuk memperbarui file ini sehingga kode Claude tahu di mana harus membuat hooks.
+Jadi saya akan menyimpannya di dalam bagian struktur proyek di sini di mana ia mengatakan semua hooks yang dapat digunakan kembali masuk ke dalam folder hooks ini.
+Jadi sekarang jika saya meminta kode Claude untuk membuat hook, semoga ia akan menempatkannya di dalam folder itu.
+Baiklah.
+Jadi Anda dapat melihat kita sebenarnya tidak memiliki folder hooks saat ini tetapi semoga Kode Claude akan membuatnya juga.
+Saya akan membuka terminal dan kemudian saya akan memintanya untuk membuat hook baru ini.
+Saya akan mengatakan bisakah Anda membuat hook untuk menyimpan preferensi tema pengguna ketika mereka mengaktifkan tema di situs dan saya akan mengatakan simpan nilai di penyimpanan lokal untuk waktu berikutnya dan kemudian saya juga akan mengatakan jangan gunakan hook di mana pun dulu karena kode Claude memiliki kebiasaan jika ia membuat fitur baru, hook, komponen, apa pun itu, ia ingin menggunakan hook itu di suatu tempat di proyek Anda.
+Jadi, seringkali saya menambahkan ini di akhir untuk memastikan ia tidak melakukannya.
+Jadi, saya akan menekan enter.
+Satu-satunya hal yang benar-benar saya khawatirkan saat ini adalah untuk menguji apakah kode Claude melihat file claude.md itu dan membuat hook di folder yang benar.
+Oke, jadi sepertinya ia telah menghasilkan beberapa kode.
+Dan jika kita melihat ini di sini, Anda dapat melihat ia ingin menempatkannya di dalam folder hooks.
+Jadi jika kita membuka ini sedikit, ini adalah hook yang telah dibuatnya di sini.
+Dan lagi, saya tidak akan memeriksa kode terlalu banyak.
+Saya biasanya akan, jika ini adalah sesuatu yang sedang saya kerjakan, saya pasti akan memeriksa kode, tetapi untuk saat ini, saya hanya akan mengatakan ya.
+Saya akan menerima perubahan itu.
+Dan Anda dapat melihat ia telah membuat folder hooks dan ia telah membuat file use theme di dalam folder itu.
+Luar biasa.
+Anda juga dapat menambahkan memori ke file claude.md langsung dari sesi obrolan dengan menggunakan simbol hash.
+Misalnya, saya bisa menambahkan hash lalu mengatakan sesuatu seperti ketika membuat komponen halaman baru, selalu tambahkan tautan ke halaman itu di header.
+Dan Anda dapat melihat di sini saat saya mengetik itu, ia memberi tahu kita bahwa ia akan mengingat apa yang kita katakan karena kita menambahkan hash itu.
+Dan intinya adalah bahwa ia akan menempatkan instruksi ini di dalam file claude.md untuk referensi di masa mendatang.
+Sehingga sekarang setiap kali ia membuat komponen halaman, ia juga harus membuat tautan header untuknya.
+Sekarang ketika kita menekan enter, kita akan melihat beberapa opsi.
+Kita dapat menyimpannya ke memori proyek yang masuk ke file claude.md yang baru saja kita buat untuk proyek ini.
+Anda dapat menyimpannya ke memori proyek lokal di folder root yang sama tetapi dengan bagian lokal ditambahkan ke nama file.
+Dan Anda juga dapat menyimpannya ke memori global yang merupakan file claude global yang disimpan di folder claude root di komputer Anda yang ditambahkan oleh instalasi untuk kita.
+Jadi memori proyek adalah apa yang diatur ketika kita menjalankan perintah forward/init untuk membuat file claude.md ini di root proyek.
+Dan file ini dimaksudkan untuk dilacak oleh kontrol versi dan didorong ke repositori jarak jauh Anda sehingga pengembang lain yang mengerjakan proyek memiliki file claude yang sama dengan panduan yang sama untuk kode claude untuk proyek ini.
+Dan itu berarti setiap memori atau informasi dalam file ini harus spesifik untuk proyek.
+Misalnya, struktur folder, konvensi penamaan, pengujian, kerangka kerja, dll.
+Memori proyek lokal adalah file yang dimaksudkan untuk panduan dan preferensi pribadi Anda sendiri ketika bekerja dengan kode claude.
+Jadi, misalnya, menguraikan jenis alat pribadi apa pun yang mungkin Anda gunakan yang tidak selalu digunakan oleh pengembang lain yang mengerjakan proyek yang sama.
+Dan file ini tidak akan didorong ke repositori jarak jauh dan hanya akan bersifat lokal untuk Anda di dalam proyek ini.
+Dan akhirnya, memori pengguna adalah panduan pribadi Anda kepada Claude ketika datang ke semua proyek yang Anda kerjakan.
+Jadi alat apa pun yang Anda gunakan secara global di banyak proyek atau preferensi gaya kode pribadi apa pun yang Anda miliki akan masuk ke file itu.
+Dan lagi, ini hanya untuk Anda di komputer Anda, tetapi ini akan untuk setiap proyek tempat Kode Claude berjalan.
+Untuk saat ini, kita hanya akan menambahkan ini ke memori proyek, yang berarti itu harus ditambahkan ke file claude.md yang sudah kita miliki.
+Jadi, jika saya menutup ini dan membuka file ini, kita seharusnya dapat melihat di bagian bawah bahwa memori baru telah ditambahkan.
+Dan Anda dapat melihat di sini, ketika membuat komponen halaman baru, selalu tambahkan tautan ke halaman itu di header.
+Luar biasa.
+Baiklah.
+Jadi, sekarang kita akan menguji ini.
+Jadi, saya akan membuka cadangan kode, dan saya akan menempelkan prompt, yang mengatakan, bisakah Anda menambahkan halaman tentang baru hanya dengan judul H2 dan satu baris Lauram sebagai kontak konten?
+Jadi, tekan enter.
+Semoga, ia akan membaca instruksi itu di file claude.md juga dan membuat tautan untuk kita.
+Dan Anda dapat melihat di daftar tugasnya, ia mengatakan di sini, tambahkan tautan halaman tentang ke navigasi header.
+Jadi, ia tahu tentang itu.
+Baiklah.
+Jadi, saya hanya akan menerima perubahan ini.
+Lagi, biasanya Anda harus memeriksa ini, tetapi demi tutorial ini, saya hanya akan menerima ini.
+Dan lagi, ia meminta izin untuk mengedit file, file tata letak kali ini untuk menambahkan tautan baru.
+Lagi, saya akan menekan ya.
+Anda bisa melakukan ini.
+Dan kemudian perubahan lain pada file tata letak, yang juga akan saya terima.
+Oke.
+Dan sekarang sudah selesai.
+Jadi jika saya menutup ini, buka aplikasi dan kemudian kita dapat melihat halaman tentang ini dan di dalamnya kita memiliki judul H2 dan hanya satu baris Lauram Ipsum.
+Luar biasa.
+Dan kemudian jika kita pergi ke halaman tata letak yang telah dieditnya.
+Semoga ia telah menambahkan tautan di sini.
+Jadi ia telah menambahkannya ke nav ini.
+Jadi ia mengatakan tentang di sini.
+Sekarang mari kita coba ini di browser.
+Oke.
+Jadi ya, ia telah melakukannya.
+Anda dapat melihat tautan tentang di sini.
+Dan jika kita mengklik itu, kita pergi ke halaman tentang.
+Sekarang Anda juga dapat melihat secara retrospektif ia telah menambahkan dua tautan lain ini yang tidak saya minta untuk dilakukannya.
+Dan ini adalah salah satu hal yang saya perhatikan tentang kode claude.
+Terkadang seperti yang saya sebutkan sebelumnya ia terkadang suka melakukan hal-hal di luar cakupan apa yang Anda minta untuk dilakukannya.
+Jadi penting untuk mungkin memberi tahu kode claude lihat jangan lakukan ini lakukan saja ini.
+Dan itu bisa menjadi sesuatu yang Anda tambahkan ke file claude.md Anda.
+Sekarang dengan sangat cepat saya ingin menyebutkan bahwa di dokumen kode Claude mereka mengatakan bahwa memori lokal sedang tidak digunakan lagi demi mengimpor file yang tidak terlacak dalam memori tingkat proyek untuk memberikan konteks pribadi itu kepada Claude.
+Dan saya akan menunjukkan kepada Anda cara mengimpor dan mereferensikan file nanti dalam kursus.
+Tetapi pada saat merekam video ini, opsi lokal masih muncul di terminal ketika Anda menggunakan pintasan hashtag memori untuk menambahkan memori baru.
+Cara lain Anda dapat mengakses file memori Anda adalah dengan menggunakan perintah memori yang hanya forward slashmemory.
+Dan omong-omong, jika belum jelas, ketika saya mengatakan file memori, saya hanya berbicara tentang file claude.md, apakah itu proyek lokal atau global.
+Tetapi bagaimanapun, ketika Anda menggunakan perintah memori ini, kode claude akan menanyakan file memori mana yang ingin Anda buka dan edit.
+Jadi Anda dapat memilih salah satu dari ini dan menekan enter untuk membuka file itu.
+Misalnya, jika saya memilih memori proyek, ia akan membuka file claude.md di sini di VS Code sehingga saya dapat mengeditnya langsung sendiri.
+Jadi kemudian untuk meringkas, selalu merupakan praktik yang baik untuk menggunakan perintah forward/init ketika Anda membawa kode claude ke dalam proyek karena itu memberi Claude kesempatan untuk belajar tentang basis kode dan menguraikan pola struktural, kerangka kerja, pustaka, konvensi penamaan, dll. dalam file claude.
+File itu kemudian digunakan oleh Claude sebagai konteks secara otomatis ketika ia membuat keputusan tentang proyek Anda di masa mendatang dan dapat ditambahkan ke repositori jarak jauh Anda sehingga pengembang lain yang mengerjakan proyek memiliki akses ke itu juga untuk alur kerja mereka sendiri menggunakan kode claude.
+Akhirnya, itu bukan sesuatu yang harus Anda buat dan kemudian lupakan, tetapi lebih baik tetap di atas, edit, dan perbarui ketika ada perubahan dalam proyek Anda.
+Dengan begitu, Anda selalu menjaga Claude tetap dalam lingkaran, dan Anda akan menemukan pekerjaannya jauh lebih sesuai dengan kode dan struktur proyek Anda yang ada saat ini.
